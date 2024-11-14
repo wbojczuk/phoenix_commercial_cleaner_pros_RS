@@ -35,9 +35,9 @@ export default function Footer() {
               <h3 className={styles.listTitle}>Categories</h3>
               <ul className={styles.list}>
 
-                <span className={styles.listItem}>Category</span>
-                <span className={styles.listItem}>Category</span>
-                <span className={styles.listItem}>Category</span>
+                <span className={styles.listItem}>Commercial</span>
+                <span className={styles.listItem}>Residential</span>
+                <span className={styles.listItem}>Cleaning</span>
               
               </ul>
             </aside>
