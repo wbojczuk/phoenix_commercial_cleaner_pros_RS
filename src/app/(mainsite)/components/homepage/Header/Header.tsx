@@ -14,7 +14,7 @@ export default function Header() {
 
         {/* <h4>-- Bonded and Insured! --</h4> */}
 
-        <img src="/img/header-bg.png" alt="" className="bg-img" />
+        <img src="/img/header-bg.webp" alt="" className="bg-img" />
         <div className="shader"></div>
 
     </header>

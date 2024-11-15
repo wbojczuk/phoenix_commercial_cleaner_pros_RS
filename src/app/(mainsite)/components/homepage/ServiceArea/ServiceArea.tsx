@@ -20,7 +20,7 @@ export default function ServiceArea() {
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=16NQ-lJHNlrSFtN5j2XuWwHjj5sEYjEY&ehbc=2E312F"></iframe>
         </div>
         
-        <img src='/img/servicearea.png' alt='Image of vacuum' className='bg-img' />
+        <img src='/img/servicearea.webp' alt='Image of vacuum' className='bg-img' />
         <div style={{backgroundColor: "rgba(0,0,0,0.7)"}} className='shader'></div>
         <div className={`shader ${styles.shader2}`}></div>
     </section>
