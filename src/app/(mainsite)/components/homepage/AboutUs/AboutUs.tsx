@@ -14,7 +14,7 @@ export default function AboutUs() {
 
             <p>Phoenix Commercial Cleaner Pros, founded in 2020, brings over 20 years of expertise in commercial and residential cleaning. We specialize in janitorial services, house cleaning, move-in/move-out cleaning, window cleaning, upholstery, carpet cleaning, and floor care. Serving Phoenix, Arizona, and nearby areas, we’re dedicated to quality and attentive service that meets every client’s needs. Let us make your space shine!</p>
 
-            <Link className="main-link" href="/contact">Get a Quote</Link>
+            <Link className="main-link" href="/book">Get a Quote</Link>
         </div>
 
 

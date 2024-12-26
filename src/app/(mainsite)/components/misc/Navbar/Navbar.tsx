@@ -22,7 +22,7 @@ export default function Navbar() {
   const homeRef: any = useRef()
   const aboutRef: any = useRef()
   const contactRef: any = useRef()
-  const impoundingRef: any = useRef()
+  const bookRef: any = useRef()
   const galleryRef: any = useRef()
 
   const logoRef: any = useRef()
@@ -43,6 +43,10 @@ export default function Navbar() {
     {
       triggers: ["/contact"],
       ref: contactRef
+    },
+    {
+      triggers: ["/book"],
+      ref: bookRef
     },
     {
       triggers: ["/", "/home"],
@@ -180,6 +184,12 @@ export default function Navbar() {
           title="Home"
           url="/"
           ref={homeRef}
+          />
+
+        <NavOption
+          title="Book"
+          url="/book"
+          ref={bookRef}
           />
 
 
